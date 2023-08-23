@@ -1,2 +1,4 @@
 # curriculo
-aplicação de do website de currículo
+
+projeto curriculo desenvolvido no primeiro trimestre
+
